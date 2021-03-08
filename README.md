@@ -1,6 +1,5 @@
-# CMPE 258 Project
+# SeeFood - AI Solution for Comprehensive Visual Food Understanding
 
-Hi Everyone! This is our CMPE 258 Project.
 
 In this project we tried to take an image of a food object, classify it in the proper food category, provide the ingredients and the recipe, and finally provide you with a calorie count.
 
